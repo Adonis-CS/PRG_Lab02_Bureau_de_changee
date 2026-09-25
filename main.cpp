@@ -25,6 +25,7 @@ double frais_change = 5.00;             // Sauvegarde le Frais d operation
 
 int main() {
 
+
     cout << "Quel est votre numero de compte ? " << endl; //cout affiche à l’écran du texte et endl passe à la ligne
     cin >> compte_bancaire;  //lire une donnée saisie par l'utilisateur et de la stocker dans une variable.
 
